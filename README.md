@@ -1,1 +1,1 @@
-This project is for internship purpose by CODSOFT.
+This project is for internship purpose by CODSOFT
