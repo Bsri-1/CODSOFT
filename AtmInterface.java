@@ -36,7 +36,7 @@ public void openAtm(){
 //int width=1000;
 //int height=1000;
 
-ImageIcon bg=new ImageIcon("D:/java files/tq.jpg");
+ImageIcon bg=new ImageIcon("D:/codsoft/tq.jpg");
 JLabel bgl=new JLabel(bg);
 bgl.setLocation(910,281);
 bgl.setSize(bg.getIconWidth(),bg.getIconHeight());
